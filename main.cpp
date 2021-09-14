@@ -7,7 +7,7 @@ using namespace std;
 
 inline void WelcomeScreen(){
     cout << "\nWelcome to Sum of Cubes!\n";
-    cout << "Created by: Obiamaka Agu\n";
+    cout << "Created for: Obiamaka Agu\n";
     cout << "\nThe purpose of this program\n"; 
     cout << "is to find combinations (k, x, n)\n";
     cout << "\nWhat would you like to do?\n\n";  
